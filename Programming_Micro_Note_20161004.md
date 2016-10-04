@@ -1,7 +1,7 @@
 #Programming Micro Note 20161004
 
 ##Purpose of void
-Source
+Source:  
 [Why is (void) 0 a no operation in C and C++?](http://stackoverflow.com/questions/2198950/why-is-void-0-a-no-operation-in-c-and-c)  
 [What is the purpose of the statement “(void)c;”?](http://stackoverflow.com/questions/6145548/what-is-the-purpose-of-the-statement-voidc?noredirect=1&lq=1)  
 
@@ -26,7 +26,7 @@ task_cleanup c = { this, &lock, &completed_ops };
 A: Maybe to avoid an unused variable warning of `c`.  
 ******
 ## Operator overloading
-Source:
+Source:  
 [What is the difference between defining an overloaded operator outside the class and defining it inside the class?](https://www.quora.com/What-is-the-difference-between-defining-an-overloaded-operator-outside-the-class-and-defining-it-inside-the-class)  
 [c++ two versions of overloading subscript operator](http://stackoverflow.com/questions/15413831/c-two-versions-of-overloading-subscript-operator)  
 Q: Difference between defining overloaded operators outside and inside the class?  
