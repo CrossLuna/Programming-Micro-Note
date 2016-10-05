@@ -13,6 +13,7 @@
 [20161004](/Programming_Micro_Note_20161004.md)  
 *  Purpose of void  
 *  Operator overloading  
+
 [20161005](/Programming_Micro_Note_20161005.md)  
 *  Git - conflict when pulling (Github)  
 
