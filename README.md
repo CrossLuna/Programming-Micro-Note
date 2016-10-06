@@ -2,6 +2,9 @@
 
 ##Introduction
 
+Short note to summarize some problems I encountered during work or leaning. 
+Try to upload it as frequently as possible.
+
 ###Why this series?
 1. Keep memory refreshed.  
 2. Avoid falling in the same trap.  
@@ -17,8 +20,10 @@
 [20161005](/Programming_Micro_Note_20161005.md)  
 *  Git - conflict when pulling (Github)  
 
+[20161006](/Programming_Micro_Note_20161006.md)  
+*  extern and static
+*  Forward-declare with namespace
+*  wchar_t
 
-## About
-TBD
 ## License
 [WTFPL] (http://www.wtfpl.net/)
