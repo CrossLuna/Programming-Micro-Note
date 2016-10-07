@@ -25,5 +25,10 @@ Try to upload it as frequently as possible.
 *  Forward-declare with namespace
 *  wchar_t
 
+[20161007](/Programming_Micro_Note_20161007.md)  
+*  Multiple definition  
+*  Dynamic allocation with size 0  
+*  typename  
+
 ## License
 [WTFPL] (http://www.wtfpl.net/)
