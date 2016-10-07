@@ -2,7 +2,7 @@
 
 ## Multiple definition
 Source:  
-[error LNK2005, already defined?](http://stackoverflow.com/questions/10046485/error-lnk2005-already-defined)
+[error LNK2005, already defined?](http://stackoverflow.com/questions/10046485/error-lnk2005-already-defined)  
 Q:   
 I have compilation errer with 
 ```C++
