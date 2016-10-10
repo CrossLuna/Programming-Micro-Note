@@ -30,5 +30,9 @@ Try to upload it as frequently as possible.
 *  Dynamic allocation with size 0  
 *  typename  
 
+[20161010](/Programming_Micro_Note_20161010.md)  
+*  Compare C-style string  
+
+
 ## License
 [WTFPL] (http://www.wtfpl.net/)
