@@ -21,7 +21,7 @@ Try to upload it as frequently as possible.
 *  Git - conflict when pulling (Github)  
 
 [20161006](/Programming_Micro_Note_20161006.md)  
-*  extern and static
+*  `extern` and `static`
 *  Forward-declare with namespace
 *  wchar_t
 
