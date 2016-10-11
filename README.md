@@ -33,6 +33,9 @@ Try to upload it as frequently as possible.
 [20161010](/Programming_Micro_Note_20161010.md)  
 *  Compare C-style string  
 
+[20161011](/Programming_Micro_Note_20161011.md)
+*  Morris traversal
+
 
 ## License
 [WTFPL] (http://www.wtfpl.net/)
