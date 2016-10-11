@@ -52,3 +52,22 @@ TreeNode* predecessor(TreeNode* curr) {
 ``` 
 
 *  Caution: when getting precedent node, remember to check if right child equals to current node. Otherwise infinite loop.
+
+
+## Vector of `unique_ptr`
+Source:  
+[Why can I not push_back a unique_ptr into a vector?](http://stackoverflow.com/questions/3283778/why-can-i-not-push-back-a-unique-ptr-into-a-vector)
+
+Q:  
+I tried to `push_back` a `unique_ptr` to a vector, but I got compilation error.
+```C++
+vector<unique_ptr<int>> v;
+unique_ptr<int> uptr(new int(1));
+v.push_back(uptr);
+```
+
+A:  
+`push_back` implies copy. `unique_ptr` guarantees ownership of only one smart pointer, therefore you can't make a copy. Instead, you should move it.
+```C++
+v.push_back(move(uptr));
+```

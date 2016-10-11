@@ -35,7 +35,7 @@ Try to upload it as frequently as possible.
 
 [20161011](/Programming_Micro_Note_20161011.md)
 *  Morris traversal
-
+*  Vector of `unique_ptr`
 
 ## License
 [WTFPL] (http://www.wtfpl.net/)
