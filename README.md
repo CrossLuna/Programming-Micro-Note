@@ -37,5 +37,9 @@ Try to upload it as frequently as possible.
 *  Morris traversal
 *  Vector of `unique_ptr`
 
+[20161012](/Programming_Micro_Note_20161012.md)  
+*  Returning array from pure C funcion  
+*  Dereference NULL pointer  
+
 ## License
 [WTFPL] (http://www.wtfpl.net/)
