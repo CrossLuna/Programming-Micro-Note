@@ -41,5 +41,8 @@ Try to upload it as frequently as possible.
 *  Returning array from pure C funcion  
 *  Dereference NULL pointer  
 
+[20161017](/Programming_Micro_Note_20161017.md)  
+*  Negative number assigned to `unsigned`
+
 ## License
 [WTFPL] (http://www.wtfpl.net/)
