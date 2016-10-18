@@ -44,5 +44,8 @@ Try to upload it as frequently as possible.
 [20161017](/Programming_Micro_Note_20161017.md)  
 *  Negative number assigned to `unsigned`
 
+[20161018](/Programming_Micro_Note_20161018.md)  
+*  Reference to pointer
+
 ## License
 [WTFPL] (http://www.wtfpl.net/)
