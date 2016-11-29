@@ -50,5 +50,8 @@ Try to upload it as frequently as possible.
 [20161019](/Programming_Micro_Note_20161019.md)
 *  Container - constness issue
 
+[20161128](/Programming_Micro_Note_20161128.md)
+*  Temporary objects
+
 ## License
 [WTFPL] (http://www.wtfpl.net/)
