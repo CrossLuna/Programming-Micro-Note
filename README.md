@@ -53,5 +53,8 @@ Try to upload it as frequently as possible.
 [20161128](/Programming_Micro_Note_20161128.md)
 *  Temporary objects
 
+[20161130](/Programming_Micro_Note_20161130.md)
+*  Rebuild
+
 ## License
 [WTFPL] (http://www.wtfpl.net/)
